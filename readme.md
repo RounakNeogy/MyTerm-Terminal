@@ -1,4 +1,4 @@
-# MyTerm - Custom X11 Termina
+# MyTerm - Custom X11 Terminal
 
 ## Overview
 
