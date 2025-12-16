@@ -1,0 +1,22 @@
+# VS Code settings
+.vscode/
+
+# Test directory
+tests/
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+build/
+bin/
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# OS-specific
+.DS_Store
